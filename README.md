@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Syed Omer Shah</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
+<h3 align="center">A passionate web and mobile app developer from Pakistan</h3>
 <img align="right" alt="Coding" width="200px" style="margin-bottom:20px;" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=umergillani36&label=Profile%20views&color=0e75b6&style=flat" alt="umergillani36" /> </p>
